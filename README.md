@@ -1943,6 +1943,8 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [write-good](https://github.com/btford/write-good) — A linter with a focus on eliminating "weasel words".
 
+- [AutoCorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve writing, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
+
 
 <h2 id="yaml">YAML</h2>
 
